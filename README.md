@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Prince Onuewka
+- 👋 Hi, I’m Prince
 - 👀 I’m interested in Data Science and Artifical Intelligence
 - 🌱 I’m currently learning Cloud computing
 
